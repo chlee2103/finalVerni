@@ -1,5 +1,9 @@
 # finalVerni
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+
+
 ![image](https://user-images.githubusercontent.com/83768500/132340947-2a844d2a-662a-4b5b-b979-e128b91ba4b8.png)
 ![image](https://user-images.githubusercontent.com/83768500/132340954-231fcf32-a9ba-46f3-9fb3-39e38e09aa4c.png)
 ![image](https://user-images.githubusercontent.com/83768500/132340966-3b78b64f-640f-495c-9626-72d448503e63.png)
