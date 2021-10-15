@@ -1,7 +1,7 @@
 # finalVerni
 
-<img src="https://img.shields.io/badge/Java-20c997?style=flat-square&logo=Java&logoColor=#007396"/>
-<span><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;"></a></span>
+<span><img src="https://img.shields.io/badge/Java-20c997?style=flat-square&logo=Java&logoColor=#007396"/><span>
+<span><img src="https://camo.githubusercontent.com/0ac526200358c3cd09ca0eae4bc7149282c173b5fb1de1636715f18b9ab346ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=JavaScript&amp;logoColor=white" style="max-width: 100%;"></a></span>
 
 
 ![image](https://user-images.githubusercontent.com/83768500/132340947-2a844d2a-662a-4b5b-b979-e128b91ba4b8.png)
